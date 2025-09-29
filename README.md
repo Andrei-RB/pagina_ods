@@ -6,9 +6,7 @@ Este repositório contém o código-fonte de um site de página única (single-p
 
 Você pode visualizar o projeto em funcionamento no seguinte link:
 
-**[Clique aqui para acessar o site](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
-
-> ⚠️ **Importante:** Lembre-se de substituir `SEU-USUARIO` pelo seu nome de usuário do GitHub e `NOME-DO-REPOSITORIO` pelo nome que você deu ao seu repositório.
+**[Clique aqui para acessar o site](https://github.com/Andrei-RB/pagina_ods?tab=readme-ov-file)**
 
 ## 📄 Descrição do Projeto
 
