@@ -6,7 +6,7 @@ Este repositório contém o código-fonte de um site de página única (single-p
 
 Você pode visualizar o projeto em funcionamento no seguinte link:
 
-**[Clique aqui para acessar o site](https://github.com/Andrei-RB/pagina_ods?tab=readme-ov-file)**
+**[Clique aqui para acessar o site](https://coletainteligente.vercel.app/ )**
 
 ## 📄 Descrição do Projeto
 
